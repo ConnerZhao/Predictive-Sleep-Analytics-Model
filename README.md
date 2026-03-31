@@ -42,8 +42,7 @@ sleep-predictor/
 │   └── ordinal_order.pkl      # Ordinal encoding map
 │ 
 ├── data/
-│   ├── sleep_health_dataset.csv    # Dataset
-│
+│   └── sleep_health_dataset.csv    # Dataset
 │
 └── README.md
 ```
