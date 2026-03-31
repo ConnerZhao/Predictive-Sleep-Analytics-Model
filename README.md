@@ -40,6 +40,10 @@ sleep-predictor/
 │   ├── classifier.pkl         # Trained XGBoost classifier
 │   ├── feature_cols.pkl       # Encoded feature column names
 │   └── ordinal_order.pkl      # Ordinal encoding map
+│ 
+├── data/
+│   ├── sleep_health_dataset.csv    # Dataset
+│
 │
 └── README.md
 ```
